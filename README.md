@@ -25,3 +25,4 @@
 ```
  Clipboard connect button in server screen(Connects you to the ip in your clipboard)
 ```
+Discord: brandonmunson_
