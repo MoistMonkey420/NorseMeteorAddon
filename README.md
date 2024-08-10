@@ -35,6 +35,6 @@
  N-client
  etc...
 ```
-This addon was mainly made for compiling the hardest features i coulød find so i dont need to have hella addons active at once. If you would like to see a feature in here pm me on Discord!
+This addon was mainly made for compiling the hardest features i could find so i dont need to have hella addons active at once. If you would like to see a feature in here pm me on Discord!
 
 Discord: brandonmunson_
