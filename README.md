@@ -2,24 +2,26 @@
 
 **Modules:**
 ```
- Antiaim
- AutoTranslate
- Chatspambypass
- Fastladder+
- Killaura+
- Norsefight
+ Anti Aim
+ Auto VClip
+ Auto Translate
+ Chat Spam Bypass
+ Kill Aura+
+ Norse Flight
+ Privacy
  Retard
- SkeletonESP
- Speed+
- Spider+
+ Skeleton ESP
+```
+
+**Hud:**
+```
+ Server days
 ```
 
 **Commands:**
 ```
  Copy server ip to clipboard(.NorseCopyiP)
- Elytra clip(.NorseEclip)
  Share your coords in the chat(.NorseShareCoordsInChat)
- Teleport(.NorseTP)
 ```
 
 **Misc:**
@@ -32,8 +34,8 @@
  Rejects
  Blackout
  Wurst
- N-client
- etc...
+ N-client(leak)
+ Griefing Utils
 ```
 This addon was mainly made for compiling the hardest features i could find so i dont need to have hella addons active at once. If you would like to see a feature in here pm me on Discord!
 
