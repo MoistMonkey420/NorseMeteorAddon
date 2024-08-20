@@ -15,7 +15,7 @@
 
 **Hud:**
 ```
- Server days
+ Server Days
 ```
 
 **Commands:**
@@ -36,6 +36,7 @@
  Wurst
  N-client(leak)
  Griefing Utils
+ Navine
 ```
 This addon was mainly made for compiling the hardest features i could find so i dont need to have hella addons active at once. If you would like to see a feature in here pm me on Discord!
 
