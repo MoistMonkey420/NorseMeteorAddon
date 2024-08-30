@@ -1,4 +1,4 @@
-# NorseMeteorAddon 1.20.4-1.21
+# NorseMeteorAddon 1.20.4-1.21.1
 
 **Modules:**
 ```
