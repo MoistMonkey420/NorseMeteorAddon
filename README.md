@@ -3,14 +3,17 @@
 **Modules:**
 ```
  Anti Aim
- Auto VClip
  Auto Translate
+ Auto VClip
  Chat Spam Bypass
+ Inf Aura
  Kill Aura+
  Norse Flight
  Privacy
+ Reach+
  Retard
  Skeleton ESP
+ Strafe
 ```
 
 **Hud:**
