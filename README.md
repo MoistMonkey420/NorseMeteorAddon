@@ -1,17 +1,18 @@
-# NorseMeteorAddon 1.20.4-1.21.1
+# NorseMeteorAddon 1.21-1.21.1
 
 **Modules:**
 ```
  Anti Aim
- Auto Translate
+ Auto Scale Gui
  Auto VClip
- Chat Spam Bypass
+ Bypass Spam
+ Derp Retard
  Inf Aura
  Kill Aura+
+ Master Crash
  Norse Flight
  Privacy
  Reach+
- Retard
  Skeleton ESP
  Strafe
 ```
@@ -23,8 +24,10 @@
 
 **Commands:**
 ```
- Copy server ip to clipboard(.NorseCopyiP)
+ CompleteCrash(.Norse-cc-crash)
  Share your coords in the chat(.NorseShareCoordsInChat)
+ CrashItem(.Norse-crashitem)
+ Copy server ip to clipboard(.NorseCopyiP)
 ```
 
 **Misc:**
@@ -40,6 +43,7 @@
  N-client(leak)
  Griefing Utils
  Navine
+ Meteor Crash Addon
 ```
 This addon was mainly made for compiling the hardest features i could find so i dont need to have hella addons active at once. If you would like to see a feature in here pm me on Discord!
 
